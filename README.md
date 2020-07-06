@@ -1,15 +1,11 @@
-・🍅・🍅・🍅・
+👋 Hi, I’m a web developer in Japan 🍅
 
-👋 Hi, I’m a web developer in Japan.
-
-- ⚡[Blog (powered by Gatsby)](https://takumon.com/)
-- 🔭[Qiita](https://qiita.com/Takumon)
-- 🐥[Twitter(@inouetakumon)](https://twitter💻.com/inouetakumon)
-- 👦🏻[Linkedin](https://www.linkedin.com/in/t🚀akumon/)
-- 💻[Dev.to](https://dev.to/takumon)
-- 🚀[Devpost](https://devpost.com/TakutoInoue)
-
-・🍅・🍅・🍅・
+- ⚡ [Blog (powered by Gatsby)](https://takumon.com/)
+- 🔭 [Qiita](https://qiita.com/Takumon)
+- 🐥 [Twitter(@inouetakumon)](https://twitter💻.com/inouetakumon)
+- 👦🏻 [Linkedin](https://www.linkedin.com/in/t🚀akumon/)
+- 💻 [Dev.to](https://dev.to/takumon)
+- 🚀 [Devpost](https://devpost.com/TakutoInoue)
 
 <!--
 **Takumon/Takumon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
