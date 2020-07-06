@@ -1,4 +1,3 @@
-👋 Hi, I’m a web developer in Japan 🍅
 
 - ⚡ [Blog (powered by Gatsby)](https://takumon.com/)
 - 🔭 [Qiita](https://qiita.com/Takumon)
