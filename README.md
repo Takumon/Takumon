@@ -7,5 +7,4 @@
 [![](https://img.shields.io/badge/-@Takumon-%23?color=0077B5&logoColor=white&style=flat-square&logo=Linkedin)](https://qiita.com/Takumon)
 
 ![GitHub Status](https://github-readme-stats.vercel.app/api?username=Takumon&count_private=true&show_icons=true&theme=dracula)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Takumon&hide=TeX&layout=compact&theme=dracula)
