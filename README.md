@@ -7,5 +7,3 @@
 - 👦🏻 [Linkedin](https://www.linkedin.com/in/takumon/)
 - 💻 [Dev.to](https://dev.to/takumon)
 - 🚀 [Devpost](https://devpost.com/TakutoInoue)
-
-![Tokyo Japan](https://github.com/Takumon/Takumon/blob/master/image.jpg)
