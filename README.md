@@ -1,4 +1,6 @@
 
+
+
 - ⚡ [Blog (powered by Gatsby)](https://takumon.com/)
 - 🔭 [Qiita](https://qiita.com/Takumon)
 - 🐥 [Twitter(@inouetakumon)](https://twitter💻.com/inouetakumon)
@@ -21,13 +23,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-```
- _________    ________      ___  __        ___  ___      _____ ______       ________      ________      
-|\___   ___\ |\   __  \    |\  \|\  \     |\  \|\  \    |\   _ \  _   \    |\   __  \    |\   ___  \    
-\|___ \  \_| \ \  \|\  \   \ \  \/  /|_   \ \  \\\  \   \ \  \\\__\ \  \   \ \  \|\  \   \ \  \\ \  \   
-     \ \  \   \ \   __  \   \ \   ___  \   \ \  \\\  \   \ \  \\|__| \  \   \ \  \\\  \   \ \  \\ \  \  
-      \ \  \   \ \  \ \  \   \ \  \\ \  \   \ \  \\\  \   \ \  \    \ \  \   \ \  \\\  \   \ \  \\ \  \ 
-       \ \__\   \ \__\ \__\   \ \__\\ \__\   \ \_______\   \ \__\    \ \__\   \ \_______\   \ \__\\ \__\
-        \|__|    \|__|\|__|    \|__| \|__|    \|_______|    \|__|     \|__|    \|_______|    \|__| \|__|
-                                                                                                        
-```
+![GitHub Status](https://github-readme-stats.vercel.app/api?username=Takumon&count_private=true&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Takumon&hide=TeX&layout=compact&theme=dracula)
+
