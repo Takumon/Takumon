@@ -1,5 +1,5 @@
 
-![Tokyo Japan](https://photos.app.goo.gl/kCPEMRNpbhchMJ7T7)
+![Tokyo Japan](https://github.com/Takumon/Takumon/blob/master/image.jpg)
 
 ![GitHub Status](https://github-readme-stats.vercel.app/api?username=Takumon&count_private=true&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Takumon&hide=TeX&layout=compact&theme=dracula)
