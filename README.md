@@ -1,6 +1,6 @@
 ### My Blog Articles
 
-[![Blog](https://img.shields.io/website?color=f74539&style=flat-square&up_message=TakumonBlog🍅&url=https%3A%2F%2Ftakumon.com)](https://takumon.com) [![Qiita](https://img.shields.io/badge/-@Takumon-%23000000?color=55C500&logoColor=white&style=flat-square&logo=qiita)](https://qiita.com/Takumon) [![Dev.to](https://img.shields.io/badge/-@Takumon-%23000000?style=flat-square&logo=dev.to)](https://dev.to/takumon) [![Medium](https://img.shields.io/badge/-@Takumon-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@takumon/)](https://medium.com/@takumon) [![](https://img.shields.io/badge/-DevPost%20@Takumon-%23003e54?style=flat-square)](https://devpost.com/TakutoInoue)
+[![Blog](https://img.shields.io/website?color=f74539&style=flat-square&up_message=TakumonBlog🍅&url=https%3A%2F%2Ftakumon.com)](https://takumon.com) [![My Qiita contributions](https://qiita-badge.apiapi.app/s/Takumon/contributions.svg)](http://qiita.com/Takumon) [![Dev.to](https://img.shields.io/badge/-@Takumon-%23000000?style=flat-square&logo=dev.to)](https://dev.to/takumon) [![Medium](https://img.shields.io/badge/-@Takumon-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@takumon/)](https://medium.com/@takumon) [![](https://img.shields.io/badge/-DevPost%20@Takumon-%23003e54?style=flat-square)](https://devpost.com/TakutoInoue)
 
 ### Reach me on
 
